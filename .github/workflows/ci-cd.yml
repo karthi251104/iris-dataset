@@ -24,4 +24,4 @@ jobs:
       run: python train.py
 
     - name: Test model
-      run: python test.py
+      run: python model.py
